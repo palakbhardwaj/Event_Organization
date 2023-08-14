@@ -13,7 +13,7 @@ The EventContract is a Solidity smart contract that facilitates the creation, ma
 - [Getting Started](#getting-started)
 - [Contract Functions](#contract-functions)
 - [Usage Examples](#usage-examples)
-- [License](#license)
+
 
 ## Overview
 
