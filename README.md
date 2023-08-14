@@ -3,7 +3,7 @@
 
 Certainly! Here's a sample README file for the provided Solidity smart contract:
 
-# EventContract Solidity Smart Contract
+# Event_Organization Solidity Smart Contract
 
 The EventContract is a Solidity smart contract that facilitates the creation, management, and participation in events. It allows users to create events, purchase event tickets, and transfer tickets to other addresses. This README provides an overview of the contract's functionality, its structure, and how to use it.
 
