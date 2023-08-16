@@ -1,7 +1,7 @@
 # Event_Organization
 "Build a decentralized event ticketing platform on Ethereum, enabling event creation, ticket purchasing, and transfers for users while ensuring transparency and security."
 
-Certainly! Here's a sample README file for the provided Solidity smart contract:
+
 
 # Event_Organization Solidity Smart Contract
 
