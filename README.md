@@ -7,6 +7,7 @@
 
 The Event Organization is a Solidity smart contract that facilitates the creation, management, and participation in events. It allows users to create events, purchase event tickets, and transfer tickets to other addresses. This README provides an overview of the contract's functionality, its structure, and how to use it.
 
+
 ## Table of Contents
 
 - [Overview](#overview)
