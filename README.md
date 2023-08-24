@@ -20,6 +20,7 @@ The Event Organization is a Solidity smart contract that facilitates the creatio
 
 The EventContract smart contract is designed to manage events and tickets on the Ethereum blockchain. It allows event organizers to create new events, set event details such as name, date, price, and ticket count, and enables participants to buy tickets for those events. Additionally, users can transfer their event tickets to other addresses if they wish.
 
+
 ## Getting Started
 
 To interact with the EventContract smart contract, you'll need a development environment with Solidity support. You can use tools like [Remix](https://remix.ethereum.org/) or [Truffle](https://www.trufflesuite.com/truffle) for development and deployment.
