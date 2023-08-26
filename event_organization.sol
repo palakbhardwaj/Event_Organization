@@ -12,6 +12,7 @@ contract EventContract {
  }
 
 
+
  mapping(uint=>Event) public events;
  mapping(address=>mapping(uint=>uint)) public tickets;
  uint public nextId;
